@@ -1,0 +1,23 @@
+Hello Dear Students!!!
+
+Your task is to build a model that will predict value for the variable - Target (numerical), 
+i.e. it is a regression problem. Use 'train.csv' file for training your model/models. 
+Predict the Target variable for the test dataset in 'test.csv' file. Note that you don't have 
+access to Target variable in the test dataset. Evaluation of models should be done based on the 
+following metric: MSE - mean squared error.
+
+Submission format:
+Save your predicted values in csv format;
+
+Provide only two columns:
+Id, Predicted Target 
+
+Description of columns:
+Id - id of the observation
+Target - target variable
+N1 to N6 - numerical variables
+C1 - ordinal categorical variable
+C2 to C9 - nominal categorical variables
+
+Acknowledgements
+Dont share this dataset with anyone.
